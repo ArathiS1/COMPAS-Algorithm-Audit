@@ -1,10 +1,13 @@
 # Algorithmic Audit: Measuring COMPAS Against Google's AI Principles
 
-https://img.shields.io/badge/Tableau-Visualization-orange https://img.shields.io/badge/Python-Data%2520Analysis-blue https://img.shields.io/badge/GitHub-Repository-black https://img.shields.io/badge/Fairness-Metrics-green
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![Python](https://img.shields.io/badge/Python-Data%2520Analysis-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+![Fairness](https://img.shields.io/badge/Fairness-Metrics-green)
 
 ## 📋 Project Overview
 
-This project presents an interactive Tableau dashboard that evaluates the COMPAS recidivism algorithm for racial bias using multiple fairness metrics, providing data-driven recommendations based on **Google's AI Principles**.
+This project presents a comprehensive algorithmic audit of the COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) system, which has been widely used in the U.S. criminal justice system to predict defendant's risk of recidivism. The audit examines racial disparities through multiple fairness metrics and evaluates the system against **Google's AI Principles**.
 
 ---
 
