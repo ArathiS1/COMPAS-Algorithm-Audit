@@ -1,4 +1,4 @@
-# Algorithmic Audit: Measuring COMPAS Against Google's AI Principles
+# Algorithmic Audit: Measuring COMPAS Against Google's AI Principles 
 
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
 ![Python](https://img.shields.io/badge/Python-Data%2520Analysis-blue)
